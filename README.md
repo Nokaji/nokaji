@@ -3,7 +3,7 @@
 
 ---
 
-<h1 align="center">I am a uranium dev</h1>
+<h1 align="center">I am Dev backend and front !</h1>
 
 [Uranium](https://discord.gg/BBspwCWeEj)
 

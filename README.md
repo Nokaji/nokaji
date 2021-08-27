@@ -7,7 +7,7 @@
 
 [Uranium](https://discord.gg/BBspwCWeEj)
 
-##### yes it is I who became the [Uranium Launcher](https://uranium.yvleis.fr)
+##### yes it is I who became the [Uranium Launcher](https://github.com/Nokaji/UraniumLauncher)
 
 ## I’m currently working on [Uranium]
 

@@ -7,9 +7,9 @@
 
 ### my skills boil down to this : 
 
-<img alt="Nokaji's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nokaji&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="Nokaji's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nokaji&show_icons=true&hide_border=true&theme=gradient" />
 
-<img alt="Nokaji's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokaji&show_icons=true&hide_border=true&theme=tokyonight" />
+<img alt="Nokaji's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokaji&show_icons=true&hide_border=true&theme=gradient" />
 
 # I have contributed at :
 ### HebergPlus

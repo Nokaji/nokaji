@@ -4,7 +4,7 @@
 ---
 
 <h1 align="center">I am Developer !</h1>
-<img src="https://tenor.com/view/rimuru-qxwaii-rimuru-tempest-tempest-tensei-shitara-slime-datta-ken-gif-22016579" />
+<div class="tenor-gif-embed" data-postid="22016579" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/rimuru-qxwaii-rimuru-tempest-tempest-tensei-shitara-slime-datta-ken-gif-22016579">Rimuru Qxwaii GIF</a>from <a href="https://tenor.com/search/rimuru-gifs">Rimuru GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### my skills boil down to this : 
 

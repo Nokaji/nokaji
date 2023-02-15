@@ -4,7 +4,7 @@
 ---
 
 <h1 align="center">I am Developer !</h1>
-<img src="https://cdn.discordapp.com/attachments/1059398892833222686/1075546321840246854/rimuru-qxwaii.gif" />
+<center><img src="https://cdn.discordapp.com/attachments/1059398892833222686/1075546321840246854/rimuru-qxwaii.gif" />
 
 ### my skills boil down to this : 
 
@@ -18,3 +18,5 @@
 
 ### JiloClass
 <a target="_blank" href="https://jiloclass.yvleis.fr"><img alt="Nokaji's Contributed JiloClass" src="https://nokaji.yvleis.fr/ressources/img/present-jiloclass.png" /></a>
+
+</center>

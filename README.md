@@ -3,7 +3,7 @@
 
 ---
 
-<h1 align="center">I am Dev backend and front !</h1>
+<h1 align="center">I am Developer !</h1>
 
 ### my skills boil down to this : 
 

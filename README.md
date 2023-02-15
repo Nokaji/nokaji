@@ -4,6 +4,7 @@
 ---
 
 <h1 align="center">I am Developer !</h1>
+<img src="https://tenor.com/view/rimuru-qxwaii-rimuru-tempest-tempest-tensei-shitara-slime-datta-ken-gif-22016579" />
 
 ### my skills boil down to this : 
 

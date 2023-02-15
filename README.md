@@ -12,8 +12,8 @@
 
 # I have contributed at :
 ### HebergPlus
-<img alt="Nokaji's Contributed HebergPlus" src="https://nokaji.yvleis.fr/ressources/img/present-hebergplus.png" />
+<a target="_blank" href="https://heberg-plus.fr"><img alt="Nokaji's Contributed HebergPlus" src="https://nokaji.yvleis.fr/ressources/img/present-hebergplus.png" /></a>
 
 ### JiloClass
-<img alt="Nokaji's Contributed JiloClass" src="https://nokaji.yvleis.fr/ressources/img/present-jiloclass.png" />
+<a target="_blank" href="https://jiloclass.yvleis.fr"><img alt="Nokaji's Contributed JiloClass" src="https://nokaji.yvleis.fr/ressources/img/present-jiloclass.png" /></a>
 

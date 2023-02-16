@@ -14,8 +14,10 @@
 ![Nokaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokaji&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokaji&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+  
+<img src="https://discord.com/users/485432352261144588" />  
 
-# I have contributed at :
+# My Projects :
 ### HebergPlus
 <a target="_blank" href="https://heberg-plus.fr"><img alt="Nokaji's Contributed HebergPlus" src="https://nokaji.yvleis.fr/ressources/img/present-hebergplus.png" /></a>
 

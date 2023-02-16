@@ -15,7 +15,8 @@
 
 </div>
   
-<img src="https://discord.com/users/485432352261144588" />  
+## 🌐Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/485432352261144588?idleMessage=Im%20probably%20sleping)](https://discord.com/users/485432352261144588)
 
 # My Projects :
 ### HebergPlus

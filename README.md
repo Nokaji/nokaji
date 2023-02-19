@@ -7,7 +7,7 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/attachments/1059398892833222686/1075546321840246854/rimuru-qxwaii.gif" />
 
-### my skills boil down to this : 
+### my skills boil down to this : g
 
 <div align="row">
   
@@ -18,7 +18,8 @@
 ## 🌐Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/485432352261144588?idleMessage=Im%20probably%20sleping)](https://discord.com/users/485432352261144588)
 
-# My Projects :
+<details>
+ <summary><h3>My projects</h3></summary>
 ### HebergPlus
 <a target="_blank" href="https://heberg-plus.fr"><img alt="Nokaji's Contributed HebergPlus" src="https://nokaji.yvleis.fr/ressources/img/present-hebergplus.png" /></a>
 

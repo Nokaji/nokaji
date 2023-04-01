@@ -32,7 +32,7 @@
 <br />
 
 
-### 📊 Stats
+## 📊 Stats
 
 <div align="row">
   

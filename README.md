@@ -44,7 +44,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/485432352261144588?idleMessage=Im%20probably%20sleping)](https://discord.com/users/485432352261144588)
 
 <details>
- <summary>My projects<summary>
+ <summary>My projects
   
 ### HebergPlus
 <a target="_blank" href="https://heberg-plus.fr"><img alt="Nokaji's Contributed HebergPlus" src="https://nokaji.yvleis.fr/ressources/img/present-hebergplus.png" /></a>
@@ -53,3 +53,4 @@
 <a target="_blank" href="https://jiloclass.yvleis.fr"><img alt="Nokaji's Contributed JiloClass" src="https://nokaji.yvleis.fr/ressources/img/present-jiloclass.png" /></a>
 
 </div>
+<summary>

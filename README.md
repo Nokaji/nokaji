@@ -40,9 +40,9 @@
 <img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
 </details>
-
-## 📊 Stats
+<br />
 <div align="center">
+## 📊 Stats
   
 ![Nokaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokaji&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokaji&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Nokaji/github-readme-stats)

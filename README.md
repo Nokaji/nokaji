@@ -5,7 +5,7 @@
 
 <h3 align="center">I am a French Developer !</h3>
 <div align="center">
-<img src="https://cdn.discordapp.com/attachments/1059398892833222686/1075546321840246854/rimuru-qxwaii.gif" />
+<img src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
 
 ### 🔧Languages and Tools :
 

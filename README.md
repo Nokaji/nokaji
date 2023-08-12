@@ -9,6 +9,7 @@
   <a href="https://nokaji.yvleis.fr">**me it's nokaji**</a>
   <h3 align="center">I am a French Developer !</h3>
 </div>
+</div>
 <details align="center">
 <summary>🔧 Languages:</summary>
 <div align="center">

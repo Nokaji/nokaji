@@ -7,7 +7,7 @@
 <div align="center">
 <img src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
 
-<details>
+<details align="center">
 <summary>🔧 Languages:</summary>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -18,7 +18,7 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 </details>
 <br />
-<details>
+<details align="center">
 <summary>🔧 Tools :</summary>
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />

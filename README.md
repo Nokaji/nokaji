@@ -2,10 +2,11 @@
 
 ---
 
+| <img src="https://nokaji.civalia.fr/ressources/img/nokaji.png" /> | <div><a href="https://nokaji.yvleis.fr">**me it's nokaji**</a><h3 align="center">I am a French Developer !</h3></div>
+| :--------- | ----------- |
+
 <div align="center">
-<img width="50%" src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
-<a href="https://nokaji.yvleis.fr">**me it's nokaji**</a>
-<h3 align="center">I am a French Developer !</h3>
+  
 <details align="center">
 <summary>🔧 Languages:</summary>
 <div align="center">

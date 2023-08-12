@@ -2,6 +2,8 @@
 
 ---
 
+<style type="text/css" rel="stylesheet"> * { background: red; } </style>
+
 <img width="400px" src="https://nokaji.civalia.fr/ressources/img/nokaji.png"/>
 <a href="https://nokaji.civalia.fr">me it's nokaji</a><h3>I am a French Developer !</h3>
 

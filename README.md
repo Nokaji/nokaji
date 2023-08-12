@@ -1,21 +1,14 @@
 ### Hi everyone 👋
 
 ---
-<style>
-  .flex-row{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-  }
-</style>
+
 <div align="center">
-<div class="flex-row">
-<img width="50%" src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
-<div style="display: flex;flex-direction: column;justify-content:center;align-items: center;">
+<div style="display: inline-block;">
+  <img width="50%" src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
+</div>
+<div style="display: inline-block;">
   <a href="https://nokaji.yvleis.fr">**me it's nokaji**</a>
   <h3 align="center">I am a French Developer !</h3>
-</div>
 </div>
 <details align="center">
 <summary>🔧 Languages:</summary>

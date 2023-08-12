@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-<div><!-- .element: style="display: flex; flex-direction: row; align-items: center; justify-content: center;" -->
+<div align="left">
 <img width="50%" src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
 <div style="display: flex;flex-direction: column;justify-content:center;align-items: center;">
   <a href="https://nokaji.yvleis.fr">**me it's nokaji**</a>

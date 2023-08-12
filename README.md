@@ -5,7 +5,7 @@
 
 <h3 align="center">I am a French Developer !</h3>
 <div align="center">
-<img src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
+<img width="50%" src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
 
 <details align="center">
 <summary>🔧 Languages:</summary>

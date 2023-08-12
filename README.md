@@ -3,8 +3,8 @@
 ---
 
 <div align="center">
-<img width="400px" src="https://nokaji.civalia.fr/ressources/img/nokaji.png"/><br>
-<a href="https://nokaji.civalia.fr">me it's nokaji</a><h3>I am a French Developer !</h3>
+<a href="https://nokaji.yvleis.fr><img width="400px" src="https://nokaji.civalia.fr/ressources/img/nokaji.png"/><a/><br>
+<h3>I am a French Developer !</h3>
 
 <details align="center">
 <summary>🔧 Languages:</summary>

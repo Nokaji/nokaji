@@ -2,7 +2,7 @@
 
 ---
 
-<img width="50%" src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
+<img src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
 <a href="https://nokaji.civalia.fr">me it's nokaji</a><h3>I am a French Developer !</h3>
 
 <div align="center">

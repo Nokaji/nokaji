@@ -1,12 +1,14 @@
 ### Hi everyone 👋
-<a href="https://nokaji.yvleis.fr">**me it's nokaji**</a>
 
 ---
 
-<h3 align="center">I am a French Developer !</h3>
 <div align="center">
+<div style="display: flex;flex-direction: row;justify-content: center;align-items: center;">
 <img width="50%" src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
-
+<div style="display: flex;flex-direction: column;justify-content:center;align-items: center;">
+  <a href="https://nokaji.yvleis.fr">**me it's nokaji**</a>
+  <h3 align="center">I am a French Developer !</h3>
+</div>
 <details align="center">
 <summary>🔧 Languages:</summary>
 <div align="center">

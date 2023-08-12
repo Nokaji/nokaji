@@ -2,12 +2,13 @@
 <a href="https://nokaji.yvleis.fr">**me it's nokaji**</a>
 
 ---
-<details>
-<summary>🔧 Languages:</summary>
 
 <h3 align="center">I am a French Developer !</h3>
 <div align="center">
 <img src="https://nokaji.civalia.fr/ressources/img/nokaji.png" />
+
+<details>
+<summary>🔧 Languages:</summary>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />

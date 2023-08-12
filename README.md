@@ -1,10 +1,10 @@
 ### Hi everyone 👋
 
 ---
-
-| <img src="https://nokaji.civalia.fr/ressources/img/nokaji.png" /> | <div><a href="https://nokaji.yvleis.fr">**me it's nokaji**</a><h3 align="center">I am a French Developer !</h3></div>
-| :--------- | ----------- |
-
+<div align="left"><img width="50%" src="https://nokaji.civalia.fr/ressources/img/nokaji.png" /></div>
+<div align="right">
+<a href="https://nokaji.yvleis.fr">**me it's nokaji**</a><h3>I am a French Developer !</h3>
+</div>
 <div align="center">
   
 <details align="center">

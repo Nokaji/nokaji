@@ -59,10 +59,10 @@
 <summary>My projects</summary>
 
 ### HebergPlus
-<a target="_blank" href="https://heberg-plus.fr"><img alt="Nokaji's Contributed HebergPlus" src="https://nokaji.yvleis.fr/ressources/img/present-hebergplus.png" /></a>
+<a target="_blank" href="https://heberg-plus.fr"><img alt="Nokaji's Contributed HebergPlus" src="https://nokaji.civalia.fr/ressources/img/present-hebergplus.png" /></a>
 
 ### JiloClass
-<a target="_blank" href="https://jiloclass.yvleis.fr"><img alt="Nokaji's Contributed JiloClass" src="https://nokaji.yvleis.fr/ressources/img/present-jiloclass.png" /></a>
+<a target="_blank" href="https://jiloclass.yvleis.fr"><img alt="Nokaji's Contributed JiloClass" src="https://nokaji.civalia.fr/ressources/img/present-jiloclass.png" /></a>
 
 </div>
 </details>

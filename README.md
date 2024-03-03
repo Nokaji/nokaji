@@ -22,7 +22,7 @@
 <details align="center">
 <summary>🔧 Tools :</summary>
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma,mysql,vscode,ubuntu,nodejs,github,gradle,laravel,discordjs,idea,phpstorm,clion,npm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma)](https://skillicons.dev)
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />

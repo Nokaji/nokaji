@@ -18,11 +18,11 @@
 </div>
 </details>
 <br />
+  [![My Skills](https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma,mysql,vscode,ubuntu,nodejs,github,gradle,laravel,discordjs,idea,phpstorm,clion,npm)](https://skillicons.dev)
   
 <details align="center">
 <summary>🔧 Tools :</summary>
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma,mysql,vscode,ubuntu,nodejs,github,gradle,laravel,discordjs,idea,phpstorm,clion,npm)](https://skillicons.dev)
 </div>
 </details>
 <br />

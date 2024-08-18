@@ -1,50 +1,47 @@
-### Hi everyone 👋
+# Hi everyone 👋
 
 ---
 
-<div align="center">
-<a href="https://nokaji.civalia.fr"><img width="400px" src="https://nokaji.civalia.fr/ressources/img/nokaji.png"/><a/><br>
-<h3>I am a French Developer !</h3>
+[![Nokaji](https://nokaji.civalia.fr/ressources/img/nokaji.png)](https://nokaji.civalia.fr)
 
-<details align="center">
+### I am a French Developer !
+
+<details>
 <summary>🔧 Languages:</summary>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,py,java" />
-</div>
-</details>
-<br />
-<details align="center">
-<summary>🔧 Tools :</summary>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma,mysql,vscode,ubuntu,nodejs,github,gradle,laravel,discordjs,idea,phpstorm,clion,npm,postman" />
-</div>
-</details>
-<br />
 
+![Languages](https://skillicons.dev/icons?i=html,css,js,php,py,java "HTML, CSS, JavaScript, PHP, Python, Java")
+
+</details>
+
+<details>
+<summary>🔧 Tools :</summary>
+
+![Tools](https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma,mysql,vscode,ubuntu,nodejs,github,gradle,laravel,discordjs,idea,phpstorm,clion,npm,postman "Git, Linux, Bootstrap, Electron, Figma, MySQL, VSCode, Ubuntu, Node.js, GitHub, Gradle, Laravel, Discord.js, IntelliJ IDEA, PhpStorm, CLion, npm, Postman")
+
+</details>
 
 ## 📊 Stats
-<div align="center">  
-  
+
 ![Nokaji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nokaji&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nokaji&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Nokaji/github-readme-stats)
 
-</div>
-  
 ## 🌐Discord
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/485432352261144588?idleMessage=Im%20probably%20sleping)](https://discord.com/users/485432352261144588)
 
 <details>
 <summary>My projects</summary>
 
 ### HebergPlus
-<a target="_blank" href="https://heberg-plus.fr"><img alt="Nokaji's Contributed HebergPlus" src="https://nokaji.civalia.fr/ressources/img/present-hebergplus.png" /></a>
+
+[![Nokaji's Contributed HebergPlus](https://nokaji.civalia.fr/ressources/img/present-hebergplus.png)](https://heberg-plus.fr)
 
 ### JiloClass
-<a target="_blank" href="https://jiloclass.yvleis.fr"><img alt="Nokaji's Contributed JiloClass" src="https://nokaji.civalia.fr/ressources/img/present-jiloclass.png" /></a>
 
-</div>
+[![Nokaji's Contributed JiloClass](https://nokaji.civalia.fr/ressources/img/present-jiloclass.png)](https://jiloclass.yvleis.fr)
+
 </details>
 
------
+---
 
 ![Nokaji](https://count.getloli.com/get/@Nokaji?theme=rule34)

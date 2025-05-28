@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="left">Tools that i'm used :</h3>
-<p align="left"> [Tools](https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma,mysql,vscode,ubuntu,nodejs,github,gradle,laravel,discordjs,idea,phpstorm,clion,npm,postman,photoshop,docker,react,tailwind,sass,html,css,blender)
+<p align="left"> ![Tools](https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma,mysql,vscode,ubuntu,nodejs,github,gradle,laravel,discordjs,idea,phpstorm,clion,npm,postman,photoshop,docker,react,tailwind,sass,html,css,blender)
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nokaji&show_icons=true&locale=en&layout=compact" alt="nokaji" /></p>

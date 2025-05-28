@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Hi 👋, I'm Nokaji</h1>
-  <img align="right" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="250" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+  <img align="right" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="400" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 
   <h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>
 

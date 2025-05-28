@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FluxLauncher](https://discord.com/invite/X728dTsDj2)
 
-- 🌱 I’m currently learning **ReactJs, Hono**
+- 🌱 I’m currently learning **Docker**
 
 - 👨💻 All of my projects are available at [https://nokaji.civalia.fr](https://nokaji.civalia.fr)
 

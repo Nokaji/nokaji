@@ -1,6 +1,6 @@
 <div align="left">
 <h1>Hi 👋, I'm Nokaji</h1>
-<img align="right" width="auto" height="300px" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png">
+<img align="right" width="auto" height="400px" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png">
 <h3>A passionate frontend and backend developer from France</h3>
 
 - 🔭 I’m currently working on [FluxLauncher](https://discord.com/invite/X728dTsDj2)

@@ -1,30 +1,42 @@
 <div align="left">
-<h1>Hi 👋, I'm Nokaji</h1>
-<img align="right" width="auto" height="400px" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png">
-<h3>A passionate frontend and backend developer from France</h3>
+  <h1>Hi 👋, I'm Nokaji</h1>
+  <img align="right" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="250" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 
-- 🔭 I’m currently working on [FluxLauncher](https://discord.com/invite/X728dTsDj2)
+  <h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>
 
-- 🌱 I’m currently learning **Docker**
-
-- 👨💻 All of my projects are available at [https://nokaji.civalia.fr](https://nokaji.civalia.fr)
-
-- 💬 Ask me about **ElectronJs**
-
-- 📫 How to reach me **nokaji.dev@gmail.com**
+  - 🔭 I’m currently working on [FluxLauncher](https://discord.com/invite/X728dTsDj2)  
+  - 🌱 Learning **Docker** to improve my DevOps skills  
+  - 👨‍💻 Explore all my projects at [nokaji.civalia.fr](https://nokaji.civalia.fr)  
+  - 💬 Ask me anything about **Electron.js**  
+  - 📫 Reach me at **nokaji.dev@gmail.com**  
 </div>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🌐 Connect with me
+
 <p align="left">
-<a href="https://discord.gg/https://discord.com/invite/X728dTsDj2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/X728dTsDj2" height="30" width="40" /></a>
+  <a href="https://discord.com/invite/X728dTsDj2" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
 
-<h3 align="left">Tools that i'm used :</h3>
-<p align="left"> ![Tools](https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma,mysql,vscode,ubuntu,nodejs,github,gradle,laravel,discordjs,idea,phpstorm,clion,npm,postman,photoshop,docker,react,tailwind,sass,html,css,blender)
- </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nokaji&show_icons=true&locale=en&layout=compact" alt="nokaji" /></p>
+### 🛠️ Tools & Technologies I Use
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nokaji&show_icons=true&locale=en" alt="nokaji" /></p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma,mysql,vscode,ubuntu,nodejs,github,gradle,laravel,discordjs,idea,phpstorm,clion,npm,postman,photoshop,docker,react,tailwind,sass,html,css,blender" alt="Tools" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nokaji&" alt="nokaji" /></p>
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nokaji&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nokaji&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nokaji" alt="GitHub Streak" /></p>

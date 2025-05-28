@@ -37,6 +37,10 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nokaji&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
+---
+
+![Nokaji](https://count.getloli.com/get/@Nokaji?theme=rule34)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nokaji&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nokaji" alt="GitHub Streak" /></p>

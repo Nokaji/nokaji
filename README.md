@@ -2,7 +2,7 @@
 
 ---
 
-[![Nokaji](https://nokaji.civalia.fr/ressources/img/nokaji.png)](https://nokaji.civalia.fr)
+[![Nokaji](https://nokaji.civalia.fr/ressources/img/new_nokaji.png)](https://nokaji.civalia.fr)
 
 ### I am a French Developer !
 

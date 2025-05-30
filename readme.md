@@ -43,4 +43,4 @@
 
 ---
 
-![Nokaji](https://count.getloli.com/get/@Nokaji?theme=rule34)
+![Nokaji](https://count.getloli.com/get/@Nokaji?theme=booru-vp)

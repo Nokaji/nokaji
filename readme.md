@@ -26,7 +26,7 @@
 ### 🛠️ Tools & Technologies I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,electron,figma,mysql,vscode,ubuntu,nodejs,hono,bun,github,gradle,laravel,discordjs,idea,phpstorm,clion,pycharm,npm,postman,photoshop,docker,react,tailwind,sass,blender" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,electron,notion,figma,mysql,vscode,ubuntu,nodejs,bun,github,gradle,laravel,discordjs,idea,phpstorm,clion,pycharm,npm,postman,photoshop,docker,react,tailwind,sass,blender" alt="Tools" />
 </p>
 
 ---

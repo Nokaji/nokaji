@@ -1,17 +1,25 @@
 <!-- Template Readme Inspired from https://github.com/Chaika9/Chaika9/blob/main/README.md -->
 
-<img align="right" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="400" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
-<div align="left">
-  <h1>Hi 👋, I'm Nokaji</h1>
+<table>
+<tr>
+<td>
 
-  <h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>
+<h1>Hi 👋, I'm Nokaji</h1>
 
-  - 🔭 I’m currently working on [FluxLauncher](https://discord.com/invite/X728dTsDj2)  
-  - 🌱 Learning **Docker** to improve my DevOps skills  
-  - 👨‍💻 Explore all my projects at [nokaji.civalia.fr](https://nokaji.civalia.fr)  
-  - 💬 Ask me anything about **Electron.js**  
-  - 📫 Reach me at **nokaji.dev@gmail.com**  
-</div>
+<h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>
+
+- 🔭 I’m currently working on [FluxLauncher](https://discord.com/invite/X728dTsDj2)  
+- 🌱 Learning **Docker** to improve my DevOps skills  
+- 👨‍💻 Explore all my projects at [nokaji.civalia.fr](https://nokaji.civalia.fr)  
+- 💬 Ask me anything about **Electron.js**  
+- 📫 Reach me at **nokaji.dev@gmail.com**  
+
+</td>
+<td>
+<img src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="200" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"/>
+</td>
+</tr>
+</table>
 
 ---https://github.com/Nokaji/nokaji/tree/main
 

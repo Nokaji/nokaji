@@ -25,15 +25,18 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" alt="cpp"/>
     <img src="https://img.shields.io/badge/cmake-064F8C?logo=cmake&style=for-the-badge&logoColor=white" alt="cmake"/>
     <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" alt="typescript"/>
+    
     - <h5> Languages already used </h5>
         <img src="https://img.shields.io/badge/java-FC4C02?logo=java&style=for-the-badge&logoColor=white" alt="java"/>
         <img src="https://img.shields.io/badge/gradle-02303A?logo=gradle&style=for-the-badge&logoColor=white" alt="gradle"/>
+        
     - <h5> Framework used</h5>
         <img src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&style=for-the-badge&logoColor=white" alt="laravel"/>
         <img src="https://img.shields.io/badge/react-4EAEC9?logo=react&style=for-the-badge&logoColor=white" alt="react"/>
         <img src="https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white" alt="tailwindcss"/>
         <img src="https://img.shields.io/badge/bulma-00D1B2?logo=bulma&style=for-the-badge&logoColor=white" alt="bulma"/>
         <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white" alt="bootstrap"/>
+        
 - <h4> Software & Libraries </h4>
     <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" alt="docker"/>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white" alt="tensorflow"/>

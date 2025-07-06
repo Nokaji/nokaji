@@ -1,9 +1,7 @@
 <!-- Template Readme Inspired from https://github.com/Chaika9/Chaika9/blob/main/README.md -->
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="top">
-
+<div>
+<img align="right" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="200" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
 <h1>Hi 👋, I'm Nokaji</h1>
 
 <h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>
@@ -13,13 +11,7 @@
 - 👨‍💻 Explore all my projects at [nokaji.civalia.fr](https://nokaji.civalia.fr)  
 - 💬 Ask me anything about **Electron.js**  
 - 📫 Reach me at **nokaji.dev@gmail.com**
-
-</td>
-<td valign="top" align="right" style="padding-left: 20px;">
-<img src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="200" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
-</td>
-</tr>
-</table>
+</div>
 
 
 ### 🌐 Connect with me

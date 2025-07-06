@@ -26,7 +26,7 @@
 ### 🛠️ Tools & Technologies I Use
 
 <p align="left">
-  - Programming  Languages & Build Systems
+- Programming  Languages & Build Systems
   <img src="https://img.shields.io/badge/-00599C?logo=c&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" />

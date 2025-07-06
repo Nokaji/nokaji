@@ -17,9 +17,7 @@
 
 ### 🌐 Connect with me
 
-<a href="https://discord.com/invite/X728dTsDj2" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
+<img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
 
 ---
 

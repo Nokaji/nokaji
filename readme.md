@@ -37,10 +37,10 @@
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white" alt="tensorflow"/>
 
 - <h4> IDE used </h4>
-    <img src="https://img.shields.io/badge/intellij idea-000000?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>
-    <img src="https://img.shields.io/badge/eclipse ide-2C2255?logo=eclipseide&style=for-the-badge&logoColor=white" alt="eclipseide"/>
-    <img src="https://img.shields.io/badge/intellijidea-000000?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>
-    <img src="https://img.shields.io/badge/intellijidea-000000?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>
+    <img src="https://img.shields.io/badge/intellij idea-000000?logo=intellijidea&style=for-the-badge" alt="intellijidea"/>
+    <img src="https://img.shields.io/badge/eclipse ide-000000?logo=eclipseide&style=for-the-badge" alt="eclipseide"/>
+    <img src="https://img.shields.io/badge/clion-000000?logo=clion&style=for-the-badge" alt="clion"/>
+    <img src="https://img.shields.io/badge/pycharm-000000?logo=pycharm&style=for-the-badge" alt="pycharm"/>
     <img src="https://img.shields.io/badge/intellijidea-000000?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>    
 ---
 

@@ -28,7 +28,6 @@
     - <h5> Languages already used </h5>
         <img src="https://img.shields.io/badge/java-FC4C02?logo=java&style=for-the-badge&logoColor=white" alt="java"/>
         <img src="https://img.shields.io/badge/gradle-02303A?logo=gradle&style=for-the-badge&logoColor=white" alt="gradle"/>
-        
     - <h5> Framework used</h5>
         <img src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&style=for-the-badge&logoColor=white" alt="laravel"/>
         <img src="https://img.shields.io/badge/react-4EAEC9?logo=react&style=for-the-badge&logoColor=white" alt="react"/>

@@ -21,8 +21,6 @@
 </tr>
 </table>
 
----https://github.com/Nokaji/nokaji/tree/main
-
 ### 🌐 Connect with me
 
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />

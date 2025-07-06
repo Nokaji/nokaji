@@ -17,23 +17,17 @@
 
 ### 🌐 Connect with me
 
-<p align="left">
-  <a href="https://discord.com/invite/X728dTsDj2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+<a href="https://discord.com/invite/X728dTsDj2" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
 
 ---
 
 ### 🛠️ Tools & Technologies I Use
-
-<p align="left">
 - <h4> Programming  Languages & Build Systems </h4>
     <img src="https://img.shields.io/badge/-00599C?logo=c&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" />
-    
-</p>
 
 ---
 

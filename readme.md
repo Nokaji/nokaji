@@ -33,7 +33,7 @@
         
     - <h5> Framework used</h5>
         <img src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&style=for-the-badge&logoColor=white" alt="laravel"/>
-        <img src="https://img.shields.io/badge/react-61DAFB?logo=react&style=for-the-badge&logoColor=white" alt="react"/>
+        <img src="https://img.shields.io/badge/react-61DAFB?logo=react&style=for-the-badge&logoColor=white&labelColor=white" alt="react"/>
         <img src="https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white" alt="tailwindcss"/>
         <img src="https://img.shields.io/badge/bulma-00D1B2?logo=bulma&style=for-the-badge&logoColor=white" alt="bulma"/>
         <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white" alt="bootstrap"/>
@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/intellij idea-A0529C?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>
     <img src="https://img.shields.io/badge/eclipse ide-2C2255?logo=eclipseide&style=for-the-badge&logoColor=white" alt="eclipseide"/>
     <img src="https://img.shields.io/badge/clion-009BE3?logo=clion&style=for-the-badge&logoColor=white" alt="clion"/>
-    <img src="https://img.shields.io/badge/pycharm-FCF849?logo=pycharm&style=for-the-badge&logoColor=white" alt="pycharm"/>
+    <img src="https://img.shields.io/badge/pycharm-FCF849?logo=pycharm&style=for-the-badge&logoColor=white&labelColor=white" alt="pycharm"/>
     <img src="https://img.shields.io/badge/vscode-2F80ED?logo=vscode&style=for-the-badge&logoColor=white" alt="vscode"/>
     
 - <h4> Designing tools </h4>

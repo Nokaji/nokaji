@@ -11,7 +11,6 @@
 - 👨‍💻 Explore all my projects at [nokaji.civalia.fr](https://nokaji.civalia.fr)  
 - 💬 Ask me anything about **Electron.js**  
 - 📫 Reach me at **nokaji.dev@gmail.com**
-</div>
 
 
 ### 🌐 Connect with me
@@ -73,3 +72,5 @@
 ---
 
 ![Nokaji](https://count.getloli.com/get/@Nokaji?theme=booru-vp)
+
+</div>

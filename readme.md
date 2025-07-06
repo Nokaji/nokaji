@@ -1,3 +1,5 @@
+<!-- Template Readme Inspired from https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/zillastar.md -->
+
 <div align="left">
   <h1>Hi 👋, I'm Nokaji</h1>
   <img align="right" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="400" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
@@ -27,9 +29,9 @@
 
 <p align="left">
 - <h4> Programming  Languages & Build Systems </h4>
-  <img src="https://img.shields.io/badge/-00599C?logo=c&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-00599C?logo=c&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" />
     
 </p>
 

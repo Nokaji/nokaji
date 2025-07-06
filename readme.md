@@ -26,7 +26,11 @@
 ### 🛠️ Tools & Technologies I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,linux,bootstrap,electron,notion,figma,mysql,vscode,ubuntu,nodejs,sequelize,bun,github,gradle,laravel,discordjs,idea,phpstorm,clion,pycharm,pytorch,npm,postman,photoshop,docker,react,tailwind,sass,blender" alt="Tools" />
+  - Programming  Languages & Build Systems
+    https://img.shields.io/badge/-00599C?logo=c&style=for-the-badge&logoColor=white
+    https://img.shields.io/badge/-00599C?logo=cplusplus&style=for-the-badge&logoColor=white
+    https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white
+    
 </p>
 
 ---

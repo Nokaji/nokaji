@@ -1,4 +1,4 @@
-<!-- Template Readme Inspired from https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/zillastar.md -->
+<!-- Template Readme Inspired from https://github.com/Chaika9/Chaika9/blob/main/README.md -->
 
 <div align="left">
   <h1>Hi 👋, I'm Nokaji</h1>
@@ -25,10 +25,23 @@
 
 ### 🛠️ Tools & Technologies I Use
 - <h4> Programming  Languages & Build Systems </h4>
-    <img src="https://img.shields.io/badge/-00599C?logo=c&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&style=for-the-badge&logoColor=white" alt="c"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" alt="cpp"/>
+    <img src="https://img.shields.io/badge/cmake-064F8C?logo=cmake&style=for-the-badge&logoColor=white" alt="cmake"/>
+    <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" alt="typescript"/>
+    - <h5> Framework used</h5>
+        <img src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&style=for-the-badge&logoColor=white" alt="laravel"/>
+        <img src="https://img.shields.io/badge/react-61DAFB?logo=react&style=for-the-badge&logoColor=white" alt="react"/>
+- <h4> Software & Libraries </h4>
+    <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" alt="docker"/>
+    <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white" alt="tensorflow"/>
 
+- <h4> IDE used </h4>
+    <img src="https://img.shields.io/badge/intellij idea-000000?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>
+    <img src="https://img.shields.io/badge/eclipse ide-2C2255?logo=eclipseide&style=for-the-badge&logoColor=white" alt="eclipseide"/>
+    <img src="https://img.shields.io/badge/intellijidea-000000?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>
+    <img src="https://img.shields.io/badge/intellijidea-000000?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>
+    <img src="https://img.shields.io/badge/intellijidea-000000?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>    
 ---
 
 ### 📊 GitHub Stats

@@ -1,7 +1,7 @@
 <!-- Template Readme Inspired from https://github.com/Chaika9/Chaika9/blob/main/README.md -->
 
 <div>
-<img align="right" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="200" />
+<img align="right" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="100" />
 <h1>Hi 👋, I'm Nokaji</h1>
 
 <h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>

@@ -1,8 +1,8 @@
 <!-- Template Readme Inspired from https://github.com/Chaika9/Chaika9/blob/main/README.md -->
 
+<img align="right" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="400" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 <div align="left">
   <h1>Hi 👋, I'm Nokaji</h1>
-  <img align="right" src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="400" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 
   <h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>
 
@@ -13,11 +13,11 @@
   - 📫 Reach me at **nokaji.dev@gmail.com**  
 </div>
 
----
+---https://github.com/Nokaji/nokaji/tree/main
 
 ### 🌐 Connect with me
 
-<img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
 
 ---
 

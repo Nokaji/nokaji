@@ -1,25 +1,23 @@
 <!-- Template Readme Inspired from https://github.com/Chaika9/Chaika9/blob/main/README.md -->
 
-<table>
-<tr>
-<td>
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-<h1>Hi 👋, I'm Nokaji</h1>
+  <div style="max-width: 60%;">
+    <h1>Hi 👋, I'm Nokaji</h1>
+    <h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>
 
-<h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>
+    - 🔭 I’m currently working on [FluxLauncher](https://discord.com/invite/X728dTsDj2)  
+    - 🌱 Learning **Docker** to improve my DevOps skills  
+    - 👨‍💻 Explore all my projects at [nokaji.civalia.fr](https://nokaji.civalia.fr)  
+    - 💬 Ask me anything about **Electron.js**  
+    - 📫 Reach me at **nokaji.dev@gmail.com**  
+  </div>
 
-- 🔭 I’m currently working on [FluxLauncher](https://discord.com/invite/X728dTsDj2)  
-- 🌱 Learning **Docker** to improve my DevOps skills  
-- 👨‍💻 Explore all my projects at [nokaji.civalia.fr](https://nokaji.civalia.fr)  
-- 💬 Ask me anything about **Electron.js**  
-- 📫 Reach me at **nokaji.dev@gmail.com**  
+  <div>
+    <img src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="200" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+  </div>
 
-</td>
-<td>
-<img src="https://nokaji.civalia.fr/ressources/img/new_nokaji.png" alt="Nokaji Avatar" height="200" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);"/>
-</td>
-</tr>
-</table>
+</div>
 
 ### 🌐 Connect with me
 

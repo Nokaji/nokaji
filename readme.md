@@ -53,9 +53,11 @@
     - <h5> Databases </h5>
         <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt="postgresql"/>
         <img src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&style=for-the-badge&logoColor=white" alt="mongodb"/>
-        <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&style=for-the-badge&logoColor=white" alt="redis"/>
         <img src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&style=for-the-badge&logoColor=white" alt="sqlite"/>
         <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" alt="supabase"/>
+
+        - <h6> I will use </h6>
+            <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&style=for-the-badge&logoColor=white" alt="redis"/>
 
 - <h4> IDE used </h4>
     <img src="https://img.shields.io/badge/intellij idea-A0529C?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>

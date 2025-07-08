@@ -26,10 +26,10 @@
 
 ### 🛠️ Tools & Technologies I Use
 - <h4> Programming  Languages & Build Systems </h4>
+    <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" alt="typescript"/>
     <img src="https://img.shields.io/badge/C-00599C?logo=c&style=for-the-badge&logoColor=white" alt="c"/>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&style=for-the-badge&logoColor=white" alt="cpp"/>
     <img src="https://img.shields.io/badge/cmake-064F8C?logo=cmake&style=for-the-badge&logoColor=white" alt="cmake"/>
-    <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white" alt="typescript"/>
     
     - <h5> Languages already used </h5>
         <img src="https://img.shields.io/badge/java-FC4C02?logo=java&style=for-the-badge&logoColor=white" alt="java"/>

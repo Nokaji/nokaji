@@ -44,16 +44,18 @@
         
 - <h4> Software & Libraries </h4>
     <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" alt="docker"/>
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white" alt="tensorflow"/>
     <img src="https://img.shields.io/badge/electron-47848F?logo=electron&style=for-the-badge&logoColor=white" alt="electron"/>
     <img src="https://img.shields.io/badge/discord.js-5865F2?logo=discorddotjs&style=for-the-badge&logoColor=white" alt="discorddotjs"/>
+
+    - <h5> I will learn </h5>
+        <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white" alt="tensorflow"/>
     
     - <h5> Databases </h5>
-      <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt="postgresql"/>
-      <img src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&style=for-the-badge&logoColor=white" alt="mongodb"/>
-      <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&style=for-the-badge&logoColor=white" alt="redis"/>
-      <img src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&style=for-the-badge&logoColor=white" alt="sqlite"/>
-      <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" alt="supabase"/>
+        <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt="postgresql"/>
+        <img src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&style=for-the-badge&logoColor=white" alt="mongodb"/>
+        <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&style=for-the-badge&logoColor=white" alt="redis"/>
+        <img src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&style=for-the-badge&logoColor=white" alt="sqlite"/>
+        <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" alt="supabase"/>
 
 - <h4> IDE used </h4>
     <img src="https://img.shields.io/badge/intellij idea-A0529C?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>

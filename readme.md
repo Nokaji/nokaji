@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/cmake-064F8C?logo=cmake&style=for-the-badge&logoColor=white" alt="cmake"/>
     
     - <h5> Languages already used </h5>
+        <img src="https://img.shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white" alt="python"/>
         <img src="https://img.shields.io/badge/java-FC4C02?logo=java&style=for-the-badge&logoColor=white" alt="java"/>
         <img src="https://img.shields.io/badge/gradle-02303A?logo=gradle&style=for-the-badge&logoColor=white" alt="gradle"/>
         

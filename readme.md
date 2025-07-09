@@ -46,6 +46,7 @@
 - <h4> Software & Libraries </h4>
     <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" alt="docker"/>
     <img src="https://img.shields.io/badge/electron-47848F?logo=electron&style=for-the-badge&logoColor=white" alt="electron"/>
+    <img src="https://img.shields.io/badge/sequelize-52B0E7?logo=sequelize&style=for-the-badge&logoColor=white" alt="sequelize"/>
     <img src="https://img.shields.io/badge/discord.js-5865F2?logo=discorddotjs&style=for-the-badge&logoColor=white" alt="discorddotjs"/>
 
     - <h5> I will learn </h5>

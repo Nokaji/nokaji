@@ -1,4 +1,4 @@
-<!-- Template Readme Inspired from https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/templates/zillastar.md -->
+<!-- Template Readme Inspired from https://github.com/Chaika9/Chaika9/blob/main/README.md -->
 
 <div align="left">
   <h1>Hi 👋, I'm Nokaji</h1>

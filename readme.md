@@ -55,6 +55,7 @@
     
     - <h5> Databases </h5>
         <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt="postgresql"/>
+        <img src="https://img.shields.io/badge/mariadb-003545?logo=mariadb&style=for-the-badge&logoColor=white" alt="mariadb"/>
         <img src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&style=for-the-badge&logoColor=white" alt="mongodb"/>
         <img src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&style=for-the-badge&logoColor=white" alt="sqlite"/>
         <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" alt="supabase"/>
@@ -86,4 +87,4 @@
 
 ---
 
-![Nokaji](https://count.getloli.com/get/@Nokaji?theme=booru-vp)
+![Nokaji](https://count.getloli.com/get/@Nokaji?theme=booru-vp)tg

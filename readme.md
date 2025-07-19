@@ -68,11 +68,11 @@
             <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&style=for-the-badge&logoColor=white" alt="redis"/>
 
 - <h4> IDE used </h4>
+    <img src="https://img.shields.io/badge/vscode-2F80ED?logo=vscode&style=for-the-badge&logoColor=white" alt="vscode"/>
     <img src="https://img.shields.io/badge/intellij idea-A0529C?logo=intellijidea&style=for-the-badge&logoColor=white" alt="intellijidea"/>
     <img src="https://img.shields.io/badge/eclipse ide-2C2255?logo=eclipseide&style=for-the-badge&logoColor=white" alt="eclipseide"/>
     <img src="https://img.shields.io/badge/clion-009BE3?logo=clion&style=for-the-badge&logoColor=white" alt="clion"/>
     <img src="https://img.shields.io/badge/pycharm-3AB959?logo=pycharm&style=for-the-badge&fontColor=white&logoColor=white" alt="pycharm"/>
-    <img src="https://img.shields.io/badge/vscode-2F80ED?logo=vscode&style=for-the-badge&logoColor=white" alt="vscode"/>
     
 - <h4> Designing tools </h4>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />

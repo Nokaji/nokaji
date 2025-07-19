@@ -43,7 +43,7 @@
         <img src="https://img.shields.io/badge/tailwindcss-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white" alt="tailwindcss"/>
         <img src="https://img.shields.io/badge/bulma-00D1B2?logo=bulma&style=for-the-badge&logoColor=white" alt="bulma"/>
         <img src="https://img.shields.io/badge/bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white" alt="bootstrap"/>
-    - <h5> I tested </h5>
+    - <h5> I trying </h5>
         <img src="https://img.shields.io/badge/rust-000000?logo=rust&style=for-the-badge&logoColor=white" alt="rust"/>
         <img src="https://img.shields.io/badge/tauri-24C8D8?logo=tauri&style=for-the-badge&logoColor=white" alt="tauri"/>
         

@@ -88,4 +88,4 @@
 
 ---
 
-![Nokaji](https://count.getloli.com/get/@Nokaji?theme=booru-vp)tg
+![Nokaji](https://count.getloli.com/get/@Nokaji?theme=booru-vp)

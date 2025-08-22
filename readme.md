@@ -7,7 +7,7 @@
 
   - 🔭 I’m currently working on [FluxLauncher](https://discord.com/invite/X728dTsDj2)  
   - 🌱 Learning **Kubernetes** to improve my DevOps skills  
-  - 👨‍💻 Explore all my projects at [nokaji.civalia.fr](https://nokaji.civalia.fr)  
+  - 👨‍💻 Explore all my projects at [nokaji.me](https://nokaji.me)  
   - 💬 Ask me anything about **App Web**
   - 📫 Reach me at **nokaji.dev@gmail.com**  
 </div>

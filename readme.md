@@ -46,6 +46,7 @@
     - <h5> I trying </h5>
         <img src="https://img.shields.io/badge/rust-000000?logo=rust&style=for-the-badge&logoColor=white" alt="rust"/>
         <img src="https://img.shields.io/badge/tauri-24C8D8?logo=tauri&style=for-the-badge&logoColor=white" alt="tauri"/>
+        <img src="https://img.shields.io/badge/shadcnui-000000?logo=shadcnui&style=for-the-badge&logoColor=white" alt="shadcnui"/>
         
 - <h4> Software & Libraries </h4>
     <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white" alt="docker"/>

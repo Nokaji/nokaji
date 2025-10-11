@@ -3,7 +3,7 @@
 <div align="left">
   <h1>Hi 👋, I'm Nokaji</h1>
 
-<img align="right" src="https://nokaji.me/ressources/img/nokaji.png" alt="Nokaji Avatar" height="400" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
+<img align="right" src="https://nokaji.me/ressources/img/nokaji.png" alt="Nokaji Avatar" height="200" style="border-radius: 16px; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 
 <h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>
 

@@ -72,7 +72,7 @@
       <img src="https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white" alt="kubernetes"/>
       
 - <h4> Technology I use</h4>
-  <img src="https://img.shields.io/badge/modelcontextprotocol-000000?logo=modelcontextprotocol&style=for-the-badge&logoColor=white" alt="modelcontextprotocol"/>
+  <img src="https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&style=for-the-badge&logoColor=white" alt="modelcontextprotocol"/>
 
 - <h4> IDE used </h4>
     <img src="https://img.shields.io/badge/vscode-2F80ED?logo=vscode&style=for-the-badge&logoColor=white" alt="vscode"/>

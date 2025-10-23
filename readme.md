@@ -59,6 +59,7 @@
   - <h5> I will learn </h5>
       <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white" alt="tensorflow"/>
       <img src="https://img.shields.io/badge/.net-512BD4?logo=dotnet&style=for-the-badge&logoColor=white" alt="dotnet"/>
+      <img src="https://img.shields.io/badge/langgraph-1C3C3C?logo=langgraph&style=for-the-badge&logoColor=white" alt="langgraph"/>
       
   - <h5> Databases </h5>
       <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt="postgresql"/>

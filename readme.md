@@ -26,8 +26,9 @@
 
 ---
 
-### 🛠️ Tools & Technologies I Use
+## 🧰 Tech Stack Overview
 
+### 🧱 Core Development Stack
 #### 💻 Programming Languages & Build Systems
 <p align="left">
   <img src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&style=for-the-badge&logoColor=white"/>
@@ -36,14 +37,17 @@
   <img src="https://img.shields.io/badge/cmake-064F8C?logo=cmake&style=for-the-badge&logoColor=white"/>
 </p>
 
-#### 🐍 Languages Already Used
+#### 🐍 Other Languages I’ve Used
 <p align="left">
   <img src="https://img.shields.io/badge/python-3776AB?logo=python&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-FC4C02?logo=java&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/gradle-02303A?logo=gradle&style=for-the-badge&logoColor=white"/>
 </p>
 
-#### ⚙️ Frameworks Used
+---
+
+### 🧩 Frameworks & Libraries
+#### ⚙️ Frameworks I Use
 <p align="left">
   <img src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-4EAEC9?logo=react&style=for-the-badge&logoColor=white"/>
@@ -60,19 +64,15 @@
   <img src="https://img.shields.io/badge/trpc-2596BE?logo=trpc&style=for-the-badge&logoColor=white"/>
 </p>
 
-#### 📦 Software & Libraries
+---
+
+### 🧰 Tools & Ecosystem
+#### 📦 DevOps, Libraries & Services
 <p align="left">
   <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/electron-47848F?logo=electron&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/sequelize-52B0E7?logo=sequelize&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/discord.js-5865F2?logo=discorddotjs&style=for-the-badge&logoColor=white"/>
-</p>
-
-#### 🧩 Will Learn Soon
-<p align="left">
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.net-512BD4?logo=dotnet&style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/langgraph-1C3C3C?logo=langgraph&style=for-the-badge&logoColor=white"/>
 </p>
 
 #### 🗄️ Databases
@@ -85,13 +85,26 @@
   <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&style=for-the-badge&logoColor=white"/>
 </p>
 
+---
+
+### 🚀 Learning & Future Goals
+#### 🧩 Will Learn Soon
+<p align="left">
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.net-512BD4?logo=dotnet&style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/langgraph-1C3C3C?logo=langgraph&style=for-the-badge&logoColor=white"/>
+</p>
+
 #### ☸️ Will Use
 <p align="left">
   <img src="https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&style=for-the-badge&logoColor=white"/>
 </p>
 
-#### 🧬 Technology I Use
+---
+
+### 🧬 Environment & Tools
+#### 🧠 AI / Context Tech
 <p align="left">
   <img src="https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&style=for-the-badge&logoColor=white"/>
 </p>
@@ -105,14 +118,14 @@
   <img src="https://img.shields.io/badge/pycharm-3AB959?logo=pycharm&style=for-the-badge&logoColor=white"/>
 </p>
 
-#### 🎨 Designing Tools
+#### 🎨 Design Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nokaji&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="150"/>
 </p>

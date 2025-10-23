@@ -70,6 +70,7 @@
 
     - <h6> I will use </h6>
       <img src="https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white" alt="kubernetes"/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&style=for-the-badge&logoColor=white" alt="n8n"/>
       
 - <h4> Technology I use</h4>
   <img src="https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&style=for-the-badge&logoColor=white" alt="modelcontextprotocol"/>

@@ -65,9 +65,10 @@
       <img src="https://img.shields.io/badge/mongodb-47A248?logo=mongodb&style=for-the-badge&logoColor=white" alt="mongodb"/>
       <img src="https://img.shields.io/badge/sqlite-003B57?logo=sqlite&style=for-the-badge&logoColor=white" alt="sqlite"/>
       <img src="https://img.shields.io/badge/supabase-3FCF8E?logo=supabase&style=for-the-badge&logoColor=white" alt="supabase"/>
+      <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&style=for-the-badge&logoColor=white" alt="redis"/>
 
     - <h6> I will use </h6>
-        <img src="https://img.shields.io/badge/redis-DC382D?logo=redis&style=for-the-badge&logoColor=white" alt="redis"/>
+      <img src="https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white" alt="kubernetes"/>
 
 - <h4> IDE used </h4>
     <img src="https://img.shields.io/badge/vscode-2F80ED?logo=vscode&style=for-the-badge&logoColor=white" alt="vscode"/>

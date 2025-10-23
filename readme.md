@@ -59,6 +59,7 @@
   - <h5> I will learn </h5>
       <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white" alt="tensorflow"/>
       <img src="https://img.shields.io/badge/.net-512BD4?logo=dotnet&style=for-the-badge&logoColor=white" alt="dotnet"/>
+      
   - <h5> Databases </h5>
       <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql&style=for-the-badge&logoColor=white" alt="postgresql"/>
       <img src="https://img.shields.io/badge/mariadb-003545?logo=mariadb&style=for-the-badge&logoColor=white" alt="mariadb"/>
@@ -69,6 +70,9 @@
 
     - <h6> I will use </h6>
       <img src="https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white" alt="kubernetes"/>
+      
+- <h4> Technology I use</h4>
+  <img src="https://img.shields.io/badge/modelcontextprotocol-000000?logo=modelcontextprotocol&style=for-the-badge&logoColor=white" alt="modelcontextprotocol"/>
 
 - <h4> IDE used </h4>
     <img src="https://img.shields.io/badge/vscode-2F80ED?logo=vscode&style=for-the-badge&logoColor=white" alt="vscode"/>

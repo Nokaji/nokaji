@@ -1,5 +1,3 @@
-<!-- Template Readme Inspired from [https://github.com/Chaika9/Chaika9/blob/main/README.md](https://github.com/Chaika9/Chaika9/blob/main/README.md) -->
-
 <div align="left">
   <h1>Hi 👋, I'm Nokaji</h1>
   <img align="right" src="https://nokaji.me/ressources/img/nokaji.png" alt="Nokaji Avatar" height="300">
@@ -8,10 +6,10 @@
 
 <ul>
     <li>🔭 I'm currently working on <a href="https://discord.com/invite/X728dTsDj2">FluxLauncher</a></li>
-    <li>🌱 Learning <strong>Kubernetes</strong> to improve my DevOps skills</li>
+    <li>🌱 Learning **Kubernetes** to improve my DevOps skills</li>
     <li>👨‍💻 Explore all my projects at <a href="https://nokaji.me">nokaji.me</a></li>
-    <li>💬 Ask me anything about <strong>Web Apps</strong></li>
-    <li>📫 Reach me at <strong>nokaji.dev@gmail.com</strong></li>
+    <li>💬 Ask me anything about **Web Apps**</li>
+    <li>📫 Reach me at **nokaji.dev@gmail.com**</li>
 </ul>
 </div>
 
@@ -61,6 +59,9 @@
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"/>
     <img src="https://img.shields.io/badge/Hono-F93C00?style=for-the-badge&logo=hono&logoColor=white"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&style=for-the-badge&logoColor=white"/>
   </p>
 
 #### 🛠️ Tools & Ecosystem
@@ -69,6 +70,10 @@
 
   <p align="left">
     <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache%20HTTP%20Server-D22128?logo=apache&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/electron-47848F?logo=electron&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/sequelize-52B0E7?logo=sequelize&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/discord.js-5865F2?logo=discorddotjs&style=for-the-badge&logoColor=white"/>
@@ -153,6 +158,8 @@
 - **📦 DevOps, Orchestration & Cloud**
 
   <p align="left">
+    <img src="https://img.shields.io/badge/OpenStack-F3881E?logo=openstack&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ceph-A8D8EA?logo=ceph&style=for-the-badge&logoColor=black"/>
     <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/terraform-7B42BC?logo=terraform&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&style=for-the-badge&logoColor=white"/>
@@ -171,6 +178,7 @@
     <img src="https://img.shields.io/badge/ZeroMQ-CF2818?logo=zeromq&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/ELK%20Stack-005571?logo=elk&style=for-the-badge&logoColor=white"/>
   </p>
 
@@ -183,6 +191,7 @@
 - **🛠️ Development Utilities**
 
   <p align="left">
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/jest-C21325?logo=jest&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/cypress-17202C?logo=cypress&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/vite-646CFF?logo=vite&style=for-the-badge&logoColor=white"/>

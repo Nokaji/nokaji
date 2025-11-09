@@ -1,3 +1,5 @@
+<!-- Template Readme Inspired from [https://github.com/Chaika9/Chaika9/blob/main/README.md](https://github.com/Chaika9/Chaika9/blob/main/README.md) -->
+
 <div align="left">
   <h1>Hi 👋, I'm Nokaji</h1>
   <img align="right" src="https://nokaji.me/ressources/img/nokaji.png" alt="Nokaji Avatar" height="300">
@@ -6,10 +8,10 @@
 
 <ul>
     <li>🔭 I'm currently working on <a href="https://discord.com/invite/X728dTsDj2">FluxLauncher</a></li>
-    <li>🌱 Learning **Kubernetes** to improve my DevOps skills</li>
+    <li>🌱 Learning <strong>Kubernetes</strong> to improve my DevOps skills</li>
     <li>👨‍💻 Explore all my projects at <a href="https://nokaji.me">nokaji.me</a></li>
-    <li>💬 Ask me anything about **Web Apps**</li>
-    <li>📫 Reach me at **nokaji.dev@gmail.com**</li>
+    <li>💬 Ask me anything about <strong>Web Apps</strong></li>
+    <li>📫 Reach me at <strong>nokaji.dev@gmail.com</strong></li>
 </ul>
 </div>
 

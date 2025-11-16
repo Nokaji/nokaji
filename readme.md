@@ -182,6 +182,7 @@
     <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/ELK%20Stack-005571?logo=elk&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/elasticsearch-005571?logo=elasticsearch&style=for-the-badge&logoColor=white"/>
   </p>
 
 - **🗄️ Database Tools**

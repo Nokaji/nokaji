@@ -2,7 +2,7 @@
 
 <div align="left">
   <h1>Hi 👋, I'm Nokaji</h1>
-  <img align="right" src="https://nokaji.me/ressources/img/nokaji.png" alt="Nokaji Avatar" height="300">
+  <img align="right" src="https://i.ibb.co/BVmNWsbk/nokaji.png" alt="Nokaji Avatar" height="300">
 
 <h3>🇫🇷 Fullstack developer passionate about building beautiful and efficient apps</h3>
 

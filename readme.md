@@ -79,6 +79,7 @@
     <img src="https://img.shields.io/badge/electron-47848F?logo=electron&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/sequelize-52B0E7?logo=sequelize&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/discord.js-5865F2?logo=discorddotjs&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df"/>
   </p>
 
 - **🗄️ Database Technologies**
@@ -140,12 +141,13 @@
     <img src="https://img.shields.io/badge/rust-000000?logo=rust&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/tauri-24C8D8?logo=tauri&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+    <img src="https://img.shields.io/badge/shadcnui-000000?logo=shadcnui&style=for-the-badge&logoColor=white"/>
   </p>
 
 - **🧠 AI/ML & Advanced Logic**
 
   <p align="left">
-    <img src="https://img.shields.io/badge/shadcnui-000000?logo=shadcnui&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/trpc-2596BE?logo=trpc&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/langgraph-1C3C3C?logo=langgraph&style=for-the-badge&logoColor=white"/>
@@ -168,18 +170,20 @@
     <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/K3S-FFC61C?style=for-the-badge&logo=k3s&logoColor=black"/>
     <img src="https://img.shields.io/badge/helm-0F1689?logo=helm&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/gitlab-FCA326?logo=gitlab&style=for-the-badge&logoColor=white"/>
   </p>
 
-- **💬 Messaging & Monitoring**
+- **💬 Messaging, Monitoring & Tracing**
 
   <p align="left">
     <img src="https://img.shields.io/badge/kafka-231F20?logo=apache-kafka&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/rabbitmq-FF6600?logo=rabbitmq&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/ZeroMQ-CF2818?logo=zeromq&style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"/>
     <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jaeger-65C2CB?logo=jaeger&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/ELK%20Stack-005571?logo=elk&style=for-the-badge&logoColor=white"/>
     <img src="https://img.shields.io/badge/elasticsearch-005571?logo=elasticsearch&style=for-the-badge&logoColor=white"/>

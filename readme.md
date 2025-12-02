@@ -174,6 +174,8 @@
     <a href="https://k3s.io/" target="_blank"><img src="https://img.shields.io/badge/K3S-FFC61C?style=for-the-badge&logo=k3s&logoColor=black"/></a>
     <a href="https://helm.sh/" target="_blank"><img src="https://img.shields.io/badge/helm-0F1689?logo=helm&style=for-the-badge&logoColor=white"/></a>
     <a href="https://about.gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/gitlab-FCA326?logo=gitlab&style=for-the-badge&logoColor=white"/></a>
+    <a href="https://openziti.io/" target="_blank"><img src="https://img.shields.io/badge/OpenZiti-FF6633?style=for-the-badge&logoColor=white"/></a>
+    <a href="https://www.vmware.com/" target="_blank"><img src="https://img.shields.io/badge/VMware-607078?logo=vmware&style=for-the-badge&logoColor=white"/></a>
   </p>
 
 - **💬 Messaging, Monitoring & Tracing**

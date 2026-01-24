@@ -128,7 +128,6 @@
 
   <p align="left">
     <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&style=for-the-badge&logoColor=white"/></a>
-    <a href="https://www.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?logo=r&style=for-the-badge&logoColor=white"/></a>
     <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/dart-0175C2?logo=dart&style=for-the-badge&logoColor=white"/></a>
     <a href="https://www.scala-lang.org/" target="_blank"><img src="https://img.shields.io/badge/scala-DC322F?logo=scala&style=for-the-badge&logoColor=white"/></a>
     <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&style=for-the-badge&logoColor=white"/></a>

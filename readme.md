@@ -14,9 +14,9 @@
   - 📫 Contact : **nokaji.dev@gmail.com**
 
   [![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/X728dTsDj2)
-  <img align="right" src="https://i.ibb.co/BVmNWsbk/nokaji.png" alt="Nokaji Avatar" width="220">
 
 </div>
+<img align="right" src="https://i.ibb.co/BVmNWsbk/nokaji.png" alt="Nokaji Avatar" width="220">
 
 <br clear="right"/>
 

@@ -1,7 +1,6 @@
 <!-- Template Readme Inspired from https://github.com/Chaika9/Chaika9/blob/main/README.md -->
 
 <div align="left">
-  <img align="right" src="https://i.ibb.co/BVmNWsbk/nokaji.png" alt="Nokaji Avatar" width="220">
 
   # Nokaji
   ### Fullstack Developer 🇫🇷
@@ -15,6 +14,7 @@
   - 📫 Contact : **nokaji.dev@gmail.com**
 
   [![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/X728dTsDj2)
+  <img align="right" src="https://i.ibb.co/BVmNWsbk/nokaji.png" alt="Nokaji Avatar" width="220">
 
 </div>
 

@@ -43,7 +43,7 @@ Launcher communautaire actuellement en pause — [rejoindre le serveur](https://
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-Implémentation du papier **MCP-Zero** (arXiv:2506.01056) sur des agents à l'aide de LangGraph et LangChain, pour optimiser le context et l'utilisation des MCP..
+Implémentation du papier **MCP-Zero** (arXiv:2506.01056) sur des agents à l'aide de LangGraph et LangChain, pour optimiser le context et l'utilisation des MCP.
 </td>
 </tr>
 </table>

@@ -11,7 +11,7 @@
 
   - 🔭 En ce moment : [**FluxLauncher**](https://discord.com/invite/X728dTsDj2)
   - 🌱 En apprentissage : **Kubernetes**, pour renforcer mes compétences DevOps
-  - 👨‍💻 Portfolio complet : [**nokaji.me**](https://nokaji.me) (En cours de refonte)
+  - 👨‍💻 Portfolio complet : [**nokaji.fr**](https://nokaji.fr) (En cours de refonte)
   - 💬 Discussion ouverte sur les **Web Apps**
   - 📫 Contact : **nokaji.dev@gmail.com**
 
